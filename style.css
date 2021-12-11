@@ -36,12 +36,14 @@
   position: absolute;
   left: 40px;
   top: 40px;
+  cursor: pointer;
 }
 .fa-cogs {
   width: 25px;
   position: absolute;
   right: 40px;
   top: 40px;
+  cursor: pointer;
 }
 .bottom_card{
     background: #fff;
